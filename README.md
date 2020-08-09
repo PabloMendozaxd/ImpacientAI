@@ -48,7 +48,7 @@ El Registro de los valores de los signos vitales de la persona afectada, permiti
 
 ## Demo video
 
-[![Watch the video](https://)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://)](https://www.youtube.com/watch?v=fe5CsL7oCBE)
 
 ## Arquitectura
 
